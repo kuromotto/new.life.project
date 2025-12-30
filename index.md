@@ -53,7 +53,7 @@
 - こたつ
 - レンジラック
     - [ニトリ レンジラック](https://www.nitori-net.jp/ec/product/2110200009319s/?srsltid=AfmBOorL0P2UynWlljrDfldFPOPAu0s5Fd3MgijAhyCPAwcPcNo9izBz)
-
+- サーキュレーター：洗濯物の室内干しの乾燥用
 
 # 前広に準備が必要
 
