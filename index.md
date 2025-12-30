@@ -44,6 +44,8 @@
 - 電気ストーブ
 - 電気ケトル（t-falみたいなやつ）
 - 自転車
+- 調味料
+- IH対応調理器具
 
 ## 優先度を検討し購入（優先度B）
 
@@ -54,6 +56,7 @@
 - レンジラック
     - [ニトリ レンジラック](https://www.nitori-net.jp/ec/product/2110200009319s/?srsltid=AfmBOorL0P2UynWlljrDfldFPOPAu0s5Fd3MgijAhyCPAwcPcNo9izBz)
 - サーキュレーター：洗濯物の室内干しの乾燥用
+- 机と椅子
 
 # 前広に準備が必要
 
