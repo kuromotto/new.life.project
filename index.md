@@ -58,8 +58,8 @@
 
 - テレビ
 - DVDプレイヤー
-- ~~絨毯・カーペット~~ （2025/12/30 電気毛布を購入@ヒラキ）
-- こたつ
+- [x] ~~絨毯・カーペット~~ （2025/12/30 電気毛布を購入@ヒラキ）
+- [x] こたつ
 - レンジラック
     - [ニトリ レンジラック](https://www.nitori-net.jp/ec/product/2110200009319s/?srsltid=AfmBOorL0P2UynWlljrDfldFPOPAu0s5Fd3MgijAhyCPAwcPcNo9izBz)
 - サーキュレーター：洗濯物の室内干しの乾燥用
